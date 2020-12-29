@@ -1,4 +1,4 @@
-# COAX Python Boot Camp 2020
+# COAX Python Boot Camp 2020 Test
 
 ## Questions
 ### Task 1. There is string s = "string". Write the code that reverses string, i.e. returns "gnirts"
